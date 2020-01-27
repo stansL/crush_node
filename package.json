@@ -1,0 +1,18 @@
+{
+  "name": "crasher",
+  "version": "1.0.0",
+  "description": "Refresher on the Node thing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Stanslaus Odhiambo",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
